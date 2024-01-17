@@ -7,4 +7,5 @@ Transformer Guided by Transfer Learning Approach". This work has been presented 
 The Dataset use din this project is Defungi Dataset. Link to the dataset: https://archive.ics.uci.edu/dataset/773/defungi 
 
 # The Proposed Architecture
-![flow9](https://github.com/Sheikh0541/ViT-Transfer-Learning-on-Microscopic-Fungi-Classification/assets/69375725/2a0599b8-24c8-4170-9242-b660fba8a0a9)
+<img src="https://github.com/Sheikh0541/ViT-Transfer-Learning-on-Microscopic-Fungi-Classification/assets/69375725/2a0599b8-24c8-4170-9242-b660fba8a0a9" alt="flow9" width="400"/>
+
